@@ -1,1 +1,29 @@
 /* your code here */
+.body{
+	background-color:greenyellow;
+}
+.product{
+	display:flex;
+	justify-content:center;
+	height:px;
+	background-color:white;
+}
+.price{
+	font-size:24px;
+	color:red;
+	font-weight:bold;
+}
+.variant{
+	display:flex;
+	
+}
+.photo-album{
+	display:flex;
+}
+.addtocart{
+	background-color:red;
+	color:white;
+	border-radius: 5px;
+	padding:10px 20px;
+}
+
